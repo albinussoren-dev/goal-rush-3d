@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  productGUID: 00000000000000000000000000000000
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 1
+  useAnimatedAutorotation: 0
+  companyName: GoalRush3D
+  productName: Goal Rush 3D
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 23
+  AndroidTargetSdkVersion: 35
+  bundleVersion: 0.1.0
+  AndroidBundleIdentifier: com.goalrush3d.game
+  applicationIdentifier:
+    Standalone: com.goalrush3d.game
+    Android: com.goalrush3d.game
+  AndroidIsGame: 1
+  AndroidTargetArchitectures: 1
+  AndroidPreferredInstallLocation: 1
